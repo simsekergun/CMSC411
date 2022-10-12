@@ -1,5 +1,5 @@
 
-# Tentative schedule: 
+# Tentative schedule
+To see the up-to-date version, please visit this [link](
+https://docs.google.com/spreadsheets/d/1aKL8B1QTyUmcOuGEN3xV1pbpBPYe1P5fbHKwI3VI90M/edit#gid=0)
 ![ ](https://raw.githubusercontent.com/simsekergun/otherstuff/main/CMSC411TentativeSchecule.png)
-
-![]("https://docs.google.com/spreadsheets/d/e/2PACX-1vQbjeBFAZa6JYMEHXZJ3MnYOy42dIMT9AfQJlgAZQaXYNzJNYKU5IUuATj-LQ_JRljSXricjA60z2EI/pubhtml?widget=true&amp;headers=false)
