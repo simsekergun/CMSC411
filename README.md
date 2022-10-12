@@ -1,5 +1,7 @@
 # List of Lectures
+
 | Lecture No | Subject |
+| ------------- | ------------- |
 | 1 | Introduction |
 | 2 | Performance |
 | 3 | Perfomance (cont.) & Benchmarking |
