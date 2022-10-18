@@ -2,7 +2,7 @@
 You can review the Fall 2022 Syllabus [here](https://docs.google.com/document/d/1rNpJqSz3F1OXrfnU-yYt8ZhoShAV4XGtDoalI7XAkxs/edit?usp=sharing). 
 
 To see the up-to-date version of the schedule, please visit this [link](
-https://docs.google.com/spreadsheets/d/1aKL8B1QTyUmcOuGEN3xV1pbpBPYe1P5fbHKwI3VI90M/edit#gid=0)
+https://docs.google.com/spreadsheets/d/1aKL8B1QTyUmcOuGEN3xV1pbpBPYe1P5fbHKwI3VI90M/edit#gid=0).
 
 ## Lectures
 By clicking the links provided in the table below, you can review the slides that we use in our lectures. However, there might be some display issues due to transitioning from PowerPoint to Google Slides!
