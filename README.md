@@ -1,7 +1,7 @@
 # List of Lectures
 | Lecture No | Subject |
 | ------------- | ------------- |
-| 1 | [Introduction to Computer Architecture](https://docs.google.com/presentation/d/1dv2tgCmJddnfcO-zO3ue5t0O2DUjQh7seF9G_Ogk100/edit?usp=sharing)|
+| 1 | Introduction to [CMSC 411](https://docs.google.com/presentation/d/1-aFF8afND3U7TEijsB-ySEmlFctwi70KpUkBbYt_YSs/edit?usp=sharing) | [Computer Architecture](https://docs.google.com/presentation/d/1dv2tgCmJddnfcO-zO3ue5t0O2DUjQh7seF9G_Ogk100/edit?usp=sharing)|
 | 2 | Performance |
 | 3 | Perfomance (cont.) & Benchmarking |
 | 4 | Representing Info |
