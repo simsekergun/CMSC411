@@ -1,3 +1,5 @@
+[Fall 2022 Syllabus](https://docs.google.com/document/d/1rNpJqSz3F1OXrfnU-yYt8ZhoShAV4XGtDoalI7XAkxs/edit?usp=sharing)
+
 # Lectures
 | Lecture No | Subject & Link |
 | ------------- | ------------- |
