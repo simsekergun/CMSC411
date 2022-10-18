@@ -5,11 +5,11 @@
 | 2 | [Performance](https://docs.google.com/presentation/d/1MXgDIibxjZRFO_XCd0ZMYCH5lt1S2UWlER7As9hXUrQ/edit?usp=sharing) |
 | 3 | [Perfomance (cont.) & Benchmarking](https://docs.google.com/presentation/d/1b9t53WYNg2qlbZ4meKQyw68KS1t9jnES-978JeT7ggI/edit?usp=sharing) |
 | 4 | [Representing Info](https://docs.google.com/presentation/d/1CbYSF6R4CUnjJjEm_4rTmd0OZ3uqGkdCHOPyWbpaLIw/edit?usp=sharing) |
-| 5 | Instruction Set Part 1 |
-| 6 | Instruction Set Part 2 |
-| 7 | Instruction Set Part 3 & Addressing Modes |
-| 8 | Procedures and Stacks |
-| 9 | MIPS Simulator |
+| 5 | Instruction Set [Part 1](https://docs.google.com/presentation/d/1AhYLMnfvmm5PeRPykBqGcUFsxWQUkYAkCsQCMakSNDs/edit?usp=sharing) |
+| 6 | Instruction Set [Part 2](https://docs.google.com/presentation/d/1gyEu3so2hq0Tcf0hCDiWqjn3Q-AgDUXp08IrQiRA6xw/edit?usp=sharing) |
+| 7 | Instruction Set [Part 3](https://docs.google.com/presentation/d/1ykJRFgXHP_zwJhPoGO8T7EGNHXixFJcAdSP8GDQ2Kkw/edit?usp=sharing) & Addressing Modes |
+| 8 | [Procedures and Stacks](https://docs.google.com/presentation/d/1jM5b8PWW58WNCH3ouWjgLs_o9Rgb7FNMqTTMV4Mg7uU/edit?usp=sharing) |
+| 9 | [MIPS Simulator](https://docs.google.com/presentation/d/1TxTZ4rfaTmPeUIXsxQxCQUh9hM2sBkMtuT6z6ulKe_c/edit?usp=sharing) |
 | 10 | [ALU](https://docs.google.com/presentation/d/1buzIy_AdXkEpjGzKpoQNaJORXXN8B6tsPZjq5pGfFjc/edit?usp=sharing) |
 | 11 | [Multiplier's Design](https://docs.google.com/presentation/d/1C1JTX7dgULXmF3b7V86aGb1i6dxdyyvqe3HTE64yOJI/edit?usp=sharing) |
 | 12 | [Performing Division & Floating Point Operators (Brief)](https://docs.google.com/presentation/d/1OuVNpQrMptUmKgimxITUb8ARAi__-oZux7sxSzBuBtE/edit?usp=sharing) |
