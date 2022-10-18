@@ -1,6 +1,10 @@
-[Fall 2022 Syllabus](https://docs.google.com/document/d/1rNpJqSz3F1OXrfnU-yYt8ZhoShAV4XGtDoalI7XAkxs/edit?usp=sharing)
+## Syllabus and Schedule
+You can review the Fall 2022 Syllabus [here](https://docs.google.com/document/d/1rNpJqSz3F1OXrfnU-yYt8ZhoShAV4XGtDoalI7XAkxs/edit?usp=sharing). 
 
-# Lectures
+To see the up-to-date version of the schedule, please visit this [link](
+https://docs.google.com/spreadsheets/d/1aKL8B1QTyUmcOuGEN3xV1pbpBPYe1P5fbHKwI3VI90M/edit#gid=0)
+
+## Lectures
 By clicking the links provided in the table below, you can review the slides that we use in our lectures. However, there might be some display issues due to transitioning from PowerPoint to Google Slides!
 
 | Lecture No | Subject & Link |
@@ -35,11 +39,9 @@ By clicking the links provided in the table below, you can review the slides tha
 | 28 | Domain specific architectures and clusters |
 
 
-To see the up-to-date version of the schedule, please visit this [link](
-https://docs.google.com/spreadsheets/d/1aKL8B1QTyUmcOuGEN3xV1pbpBPYe1P5fbHKwI3VI90M/edit#gid=0)
 
 
-# Homework Assisgnments and Solutions
+## Homework Assisgnments and Solutions
 | Assignment No | Assignment | Solutions |
 | ------------- | ------------- |------------- |
 | 1 | [Questions](https://docs.google.com/document/d/1chLIPU7L058B3DGN6QlM0WeeZIajw3BK-eCckQgSMxg/edit?usp=sharing) | [Solutions](https://docs.google.com/document/d/1yI4SgzSsxhz7NdFGw_AcnsqKbw4V-QmVwMubAOkneEI/edit?usp=sharing) |
