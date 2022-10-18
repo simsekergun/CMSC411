@@ -1,6 +1,8 @@
 [Fall 2022 Syllabus](https://docs.google.com/document/d/1rNpJqSz3F1OXrfnU-yYt8ZhoShAV4XGtDoalI7XAkxs/edit?usp=sharing)
 
 # Lectures
+By clicking the links provided in the table below, you can review the slides that we use in our lectures. However, there might be some display issues due to transitioning from PowerPoint to Google Slides!
+
 | Lecture No | Subject & Link |
 | ------------- | ------------- |
 | 1 | Introduction to [CMSC 411](https://docs.google.com/presentation/d/1-aFF8afND3U7TEijsB-ySEmlFctwi70KpUkBbYt_YSs/edit?usp=sharing) - [Computer Architecture](https://docs.google.com/presentation/d/1dv2tgCmJddnfcO-zO3ue5t0O2DUjQh7seF9G_Ogk100/edit?usp=sharing)|
