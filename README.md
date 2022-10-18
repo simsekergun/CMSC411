@@ -1,7 +1,7 @@
 # List of Lectures
 | Lecture No | Subject |
 | ------------- | ------------- |
-| 1 | Introduction |
+| 1 | [Introduction to Computer Architecture](https://docs.google.com/presentation/d/1dv2tgCmJddnfcO-zO3ue5t0O2DUjQh7seF9G_Ogk100/edit?usp=sharing)|
 | 2 | Performance |
 | 3 | Perfomance (cont.) & Benchmarking |
 | 4 | Representing Info |
