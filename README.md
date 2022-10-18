@@ -10,23 +10,23 @@
 | 7 | Instruction Set Part 3 & Addressing Modes |
 | 8 | Procedures and Stacks |
 | 9 | MIPS Simulator |
-| 10 | ALU |
-| 11 | Multipliers Design |
-| 12 | Performing Division & Floating Point Operators (Brief) |
-| 13 | Single Cycle Datapath and Control |
-| 14 | Multi-cycle Processor and Design |
-| 15 | Introduction to Pipelining |
-| 16 | Pipelined Datapath and Control |
-| 17 | Handling Pipeline Hazards |
-| 18 | Branch Prediction |
-| 19 | Exceptions |
-| 20 | Instruction Level Parallelism |
-| 21 | Super Scalar and Dynamic |
-| 22 | Memory Hierarchy and Cache |
-| 23 | Cache Performance |
-| 24 | Virtual Memory |
-| 25 | Parallel Processors |
-| 26 | Multithreading |
+| 10 | [ALU](https://docs.google.com/presentation/d/1buzIy_AdXkEpjGzKpoQNaJORXXN8B6tsPZjq5pGfFjc/edit?usp=sharing) |
+| 11 | [Multiplier's Design](https://docs.google.com/presentation/d/1C1JTX7dgULXmF3b7V86aGb1i6dxdyyvqe3HTE64yOJI/edit?usp=sharing) |
+| 12 | [Performing Division & Floating Point Operators (Brief)](https://docs.google.com/presentation/d/1OuVNpQrMptUmKgimxITUb8ARAi__-oZux7sxSzBuBtE/edit?usp=sharing) |
+| 13 | [Introduction to Processor](https://docs.google.com/presentation/d/1ILF0ZJWmFja5_VrbKLcpzYc8b82GbyZFSmiBqOemlpc/edit?usp=sharing)| 
+| 14 | [Single Cycle Datapath and Control](https://docs.google.com/presentation/d/1A68yegptR6iarKstDO2qKgLsYb97NEEA9lXJQrTey-w/edit?usp=sharing) |
+| 15 | Multi-cycle Processor and Design |
+| 16 | Introduction to Pipelining |
+| 17 | Pipelined Datapath and Control |
+| 18 | Handling Pipeline Hazards |
+| 19 | Branch Prediction |
+| 20 | Exceptions |
+| 21 | Instruction Level Parallelism |
+| 22 | Super Scalar and Dynamic |
+| 23 | Memory Hierarchy and Cache |
+| 24 | Cache Performance |
+| 25 | Virtual Memory |
+| 26 | Parallel Processors & Multithreading|
 | 27 | Introduction to GPUs |
 | 28 | Domain specific architectures and clusters |
 
