@@ -50,5 +50,7 @@ By clicking the links provided in the table below, you can review the slides tha
 | 4 | [Questions](https://docs.google.com/document/d/18iVTzxuiV9jdZhpSD5Wz3D7hyG5OVAyc_HupCSEu9Ec/edit?usp=sharing) | [Solutions](https://docs.google.com/document/d/1Q4EiDkCeXoVlJQfCeVaEfwVquh0bPaJr4iI6S4zy4nw/edit?usp=sharing) |
 
 ## Quizzes
+
 Quiz 1 [Solution Manual](https://docs.google.com/document/d/1PLHH76GWiplCLFgjptkLLgKozmBkbU79IOecUMsrHrE/edit?usp=sharing)
+
 Quiz 2 [Solution Manual](https://docs.google.com/document/d/1cy0nD_fodi6I1yoM0hS5feo1ho4V1sNmNhQtgrULUs4/edit?usp=sharing)
