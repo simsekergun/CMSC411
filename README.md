@@ -48,3 +48,7 @@ By clicking the links provided in the table below, you can review the slides tha
 | 2 | [Questions](https://docs.google.com/document/d/1Zt58fxLcUxRbJiBUO6y6bHeFx6ZDEVZjNp5XIpOuBUM/edit?usp=sharing) | [Solutions](https://docs.google.com/document/d/1WXfKIK3nTksaaGjnFQonYsRbVnwuOU9koghlKLcO1oI/edit?usp=sharing) |
 | 3 | [P1](https://forms.gle/aR7MG28Vq6abEdst6), [P2](https://forms.gle/USrrbrk6nwvbAVMh6), [P3](https://forms.gle/By7ce2vE9Y5ZeSqq7), [P4](https://forms.gle/sE276uApPk32fwpH7) | [Solutions](https://drive.google.com/file/d/1GeNXZrj0tx8PmwH0-0Qxi6hGTkJx3xk9/view?usp=sharing) |
 | 4 | [Questions](https://docs.google.com/document/d/18iVTzxuiV9jdZhpSD5Wz3D7hyG5OVAyc_HupCSEu9Ec/edit?usp=sharing) | [Solutions](https://docs.google.com/document/d/1Q4EiDkCeXoVlJQfCeVaEfwVquh0bPaJr4iI6S4zy4nw/edit?usp=sharing) |
+
+## Quizzes
+Quiz 1 [Solution Manual](https://docs.google.com/document/d/1PLHH76GWiplCLFgjptkLLgKozmBkbU79IOecUMsrHrE/edit?usp=sharing)
+Quiz 2 [Solution Manual](https://docs.google.com/document/d/1cy0nD_fodi6I1yoM0hS5feo1ho4V1sNmNhQtgrULUs4/edit?usp=sharing)
