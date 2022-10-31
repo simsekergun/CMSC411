@@ -23,8 +23,8 @@ By clicking the links provided in the table below, you can review the slides tha
 | 12 | [Performing Division & Floating Point Operators (Brief)](https://docs.google.com/presentation/d/1OuVNpQrMptUmKgimxITUb8ARAi__-oZux7sxSzBuBtE/edit?usp=sharing) | 3.4, 3.9, 3.10 |
 | 13 | [Introduction to Processor](https://docs.google.com/presentation/d/1ILF0ZJWmFja5_VrbKLcpzYc8b82GbyZFSmiBqOemlpc/edit?usp=sharing)|  4.1, 4.2 |
 | 14 | [Single Cycle Datapath and Control](https://docs.google.com/presentation/d/1A68yegptR6iarKstDO2qKgLsYb97NEEA9lXJQrTey-w/edit?usp=sharing) | 4.3, 4.4 |
-| 15 | Multi-cycle Processor and Design | 4.5 |
-| 16 | Introduction to Pipelining | 4.6 |
+| 15 | [Multi-cycle Datapath](https://docs.google.com/presentation/d/18qhqWUh8F-k30DkSd4KHkvjNJgDh41XBIVCy97PjvhU/edit?usp=sharing) | 4.5 |
+| 16 | [Multi-cycle Implementation](https://docs.google.com/presentation/d/1OoCpRhzqyfFFOQUUfpsOIZX-mRrO3LZXICKB89JFXkQ/edit?usp=sharing) | 4.6 |
 | 17 | Pipelined Datapath and Control | 4.7 |
 | 18 | Handling Pipeline Hazards | 4.8 |
 | 19 | Branch Prediction | 4.9 |
@@ -49,10 +49,12 @@ By clicking the links provided in the table below, you can review the slides tha
 | 3 | [P1](https://forms.gle/aR7MG28Vq6abEdst6), [P2](https://forms.gle/USrrbrk6nwvbAVMh6), [P3](https://forms.gle/By7ce2vE9Y5ZeSqq7), [P4](https://forms.gle/sE276uApPk32fwpH7) | [Solutions](https://drive.google.com/file/d/1GeNXZrj0tx8PmwH0-0Qxi6hGTkJx3xk9/view?usp=sharing) |
 | 4 | [Questions](https://docs.google.com/document/d/18iVTzxuiV9jdZhpSD5Wz3D7hyG5OVAyc_HupCSEu9Ec/edit?usp=sharing) | [Solutions](https://docs.google.com/document/d/1Q4EiDkCeXoVlJQfCeVaEfwVquh0bPaJr4iI6S4zy4nw/edit?usp=sharing) |
 
+
+## Midterm Exam
+Solution manuals: [Group-1](https://docs.google.com/document/d/1bfk3anRR1_ST6lfWxLM-qTTB8dratW-Aiklpivfg4is/edit?usp=sharing) and [Group-2](https://docs.google.com/document/d/1OQS9gFz4j8BthtXz5bpeZHksPezhAjECj6bR4CXTdIM/edit?usp=sharing)
+
 ## Quizzes
-
 Quiz 1 [Solution Manual](https://docs.google.com/document/d/1PLHH76GWiplCLFgjptkLLgKozmBkbU79IOecUMsrHrE/edit?usp=sharing)
-
 Quiz 2 [Solution Manual](https://docs.google.com/document/d/1cy0nD_fodi6I1yoM0hS5feo1ho4V1sNmNhQtgrULUs4/edit?usp=sharing)
 
 ## Useful Stuff
