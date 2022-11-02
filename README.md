@@ -25,7 +25,7 @@ By clicking the links provided in the table below, you can review the slides tha
 | 14 | [Single Cycle Datapath and Control](https://docs.google.com/presentation/d/1A68yegptR6iarKstDO2qKgLsYb97NEEA9lXJQrTey-w/edit?usp=sharing) | 4.3, 4.4 |
 | 15 | [Multi-cycle Datapath](https://docs.google.com/presentation/d/18qhqWUh8F-k30DkSd4KHkvjNJgDh41XBIVCy97PjvhU/edit?usp=sharing) | 4.5 |
 | 16 | [Multi-cycle Implementation](https://docs.google.com/presentation/d/1OoCpRhzqyfFFOQUUfpsOIZX-mRrO3LZXICKB89JFXkQ/edit?usp=sharing) | 4.6 |
-| 17 | Pipelined Datapath and Control | 4.7 |
+| 17 | [Multi-Cycle Control and Pipelining](https://docs.google.com/presentation/d/1dTraI_EbEOVhw_pJOnn6JKjIo3Pt-VCMlRonXwaM9HE/edit?usp=sharing) | 4.7 |
 | 18 | Handling Pipeline Hazards | 4.8 |
 | 19 | Branch Prediction | 4.9 |
 | 20 | Exceptions | 4.10 |
@@ -55,9 +55,9 @@ By clicking the links provided in the table below, you can review the slides tha
 Solution manuals: [Group-1](https://docs.google.com/document/d/1bfk3anRR1_ST6lfWxLM-qTTB8dratW-Aiklpivfg4is/edit?usp=sharing) and [Group-2](https://docs.google.com/document/d/1OQS9gFz4j8BthtXz5bpeZHksPezhAjECj6bR4CXTdIM/edit?usp=sharing)
 
 ## Quizzes
-Quiz 1 [Solution Manual](https://docs.google.com/document/d/1PLHH76GWiplCLFgjptkLLgKozmBkbU79IOecUMsrHrE/edit?usp=sharing)
-Quiz 2 [Solution Manual](https://docs.google.com/document/d/1cy0nD_fodi6I1yoM0hS5feo1ho4V1sNmNhQtgrULUs4/edit?usp=sharing)
-Quiz 3 [Solution Manual](https://docs.google.com/document/d/10kK9rgMAalTuHi-BcLWqKTfbvaGUrHor0_WK0w1Zbt4/edit?usp=sharing)
+- Quiz 1 [Solution Manual](https://docs.google.com/document/d/1PLHH76GWiplCLFgjptkLLgKozmBkbU79IOecUMsrHrE/edit?usp=sharing)
+- Quiz 2 [Solution Manual](https://docs.google.com/document/d/1cy0nD_fodi6I1yoM0hS5feo1ho4V1sNmNhQtgrULUs4/edit?usp=sharing)
+- Quiz 3 [Solution Manual](https://docs.google.com/document/d/10kK9rgMAalTuHi-BcLWqKTfbvaGUrHor0_WK0w1Zbt4/edit?usp=sharing)
 
 ## Useful Stuff
 [MIPS Instruction Set in a Nutshell](https://docs.google.com/document/d/1kx75d1Kn1rjCsR-ZLefd9y2kIteslbTL7p1LtCmpRsY/edit?usp=sharing)
