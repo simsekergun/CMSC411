@@ -26,7 +26,7 @@ By clicking the links provided in the table below, you can review the slides tha
 | 15 | [Multi-cycle Datapath](https://docs.google.com/presentation/d/18qhqWUh8F-k30DkSd4KHkvjNJgDh41XBIVCy97PjvhU/edit?usp=sharing) | 4.5 |
 | 16 | [Multi-cycle Implementation](https://docs.google.com/presentation/d/1OoCpRhzqyfFFOQUUfpsOIZX-mRrO3LZXICKB89JFXkQ/edit?usp=sharing) | 4.6 |
 | 17 | [Multi-Cycle Control and Pipelining](https://docs.google.com/presentation/d/1dTraI_EbEOVhw_pJOnn6JKjIo3Pt-VCMlRonXwaM9HE/edit?usp=sharing) | 4.7 |
-| 18 | Handling Pipeline Hazards | 4.8 |
+| 18 | [Pipeline Hazards](https://docs.google.com/presentation/d/1Lv__LAA5j1i8fC0srTQzYNkXGvAfCNo7RLlARAix1Rc/edit?usp=sharing) | 4.8 |
 | 19 | Branch Prediction | 4.9 |
 | 20 | Exceptions | 4.10 |
 | 21 | Instruction Level Parallelism | 4.11 |
