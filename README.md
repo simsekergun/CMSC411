@@ -58,6 +58,7 @@ Solution manuals: [Group-1](https://docs.google.com/document/d/1bfk3anRR1_ST6lfW
 - Quiz 1 [Solution Manual](https://docs.google.com/document/d/1PLHH76GWiplCLFgjptkLLgKozmBkbU79IOecUMsrHrE/edit?usp=sharing)
 - Quiz 2 [Solution Manual](https://docs.google.com/document/d/1cy0nD_fodi6I1yoM0hS5feo1ho4V1sNmNhQtgrULUs4/edit?usp=sharing)
 - Quiz 3 [Solution Manual](https://docs.google.com/document/d/10kK9rgMAalTuHi-BcLWqKTfbvaGUrHor0_WK0w1Zbt4/edit?usp=sharing)
+- Quiz 4 [Solution Manual](https://docs.google.com/document/d/1EnIvmLJxqAM1zzHl3ZH1DX-6sAjpN_5sv88yVGsmnyc/edit?usp=sharing)
 
 ## Useful Stuff
 [MIPS Instruction Set in a Nutshell](https://docs.google.com/document/d/1kx75d1Kn1rjCsR-ZLefd9y2kIteslbTL7p1LtCmpRsY/edit?usp=sharing)
