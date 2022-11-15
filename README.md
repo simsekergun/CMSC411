@@ -28,15 +28,15 @@ By clicking the links provided in the table below, you can review the slides tha
 | 17 | [Multi-Cycle Control and Pipelining](https://docs.google.com/presentation/d/1dTraI_EbEOVhw_pJOnn6JKjIo3Pt-VCMlRonXwaM9HE/edit?usp=sharing) | 4.7 |
 | 18 | [Pipeline Hazards](https://docs.google.com/presentation/d/1Lv__LAA5j1i8fC0srTQzYNkXGvAfCNo7RLlARAix1Rc/edit?usp=sharing) | 4.8 |
 | 19 | [Branch Prediction](https://docs.google.com/presentation/d/14r3PdsLAGF1K4OCFvBaemIYGM4MOcqZtPFHR9sBoiEI/edit?usp=sharing) | 4.9 |
-| 20 | Exceptions | 4.10 |
-| 21 | Instruction Level Parallelism | 4.11 |
-| 22 | Super Scalar and Dynamic | N/A |
-| 23 | Memory Hierarchy and Cache | 5.1 -- 5.3 |
-| 24 | Cache Performance | 5.4, 5.5 |
-| 25 | Virtual Memory | 5.6, 5.7 |
-| 26 | Parallel Processors & Multithreading| 6.1 -- 6.3 |
-| 27 | Introduction to GPUs | 6.4, 6.5, 6.6 |
-| 28 | Domain specific architectures and clusters | 6.7, 6.8 |
+| 20 | [Hazards (cont) & Exceptions](https://docs.google.com/presentation/d/1m8P9nisdmcXwFH0snH8Lhzm02Dm0zytcx75x36hDB4w/edit?usp=sharing) | 4.10 |
+| 21 | [Instruction Level Parallelism](https://docs.google.com/presentation/d/1_wUo1p_PcXoqOEvuq47ovAZAedZPzVBvK386gv4e3OE/edit?usp=sharing)| 4.11 |
+| 22 | [Super Scalar and Dynamic](https://docs.google.com/presentation/d/1SWCCs9koAJ8OGZs3RF8W2IvVr7qMZ6tiz5ChQF37QXQ/edit?usp=sharing) | N/A |
+| 23 | Chapter 4 Problem Solving Session | N/A |
+| 24 | Memory Hierarchy and Cache | 5.1 -- 5.3 |
+| 25 | Cache Performance | 5.4, 5.5 |
+| 26 | Virtual Memory | 5.6, 5.7 |
+| 27 | Parallel Processors & Multithreading| 6.1 -- 6.3 |
+| 28 | GPUs, Domain specific architectures, clusters | 6.4 -- 6.8 |
 
 
 
