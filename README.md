@@ -49,7 +49,7 @@ By clicking the links provided in the table below, you can review the slides tha
 | 3 | [P1](https://forms.gle/aR7MG28Vq6abEdst6), [P2](https://forms.gle/USrrbrk6nwvbAVMh6), [P3](https://forms.gle/By7ce2vE9Y5ZeSqq7), [P4](https://forms.gle/sE276uApPk32fwpH7) | [Solutions](https://drive.google.com/file/d/1GeNXZrj0tx8PmwH0-0Qxi6hGTkJx3xk9/view?usp=sharing) |
 | 4 | [Questions](https://docs.google.com/document/d/18iVTzxuiV9jdZhpSD5Wz3D7hyG5OVAyc_HupCSEu9Ec/edit?usp=sharing) | [Solutions](https://docs.google.com/document/d/1Q4EiDkCeXoVlJQfCeVaEfwVquh0bPaJr4iI6S4zy4nw/edit?usp=sharing) |
 | 5 | [Questions](https://docs.google.com/document/d/1Mha-Q4vamdYkQOx608j9iOEGADLfTYuZDbe3oiJXKq4/edit?usp=sharing) | [Solutions](https://docs.google.com/document/d/1w6dgq0zmJfbmZtxdLGvzt3thRWN9bcSwKu1TAPcBnDQ/edit?usp=sharing) |
-| 6 | [Questions](https://docs.google.com/document/d/1N8M37zDGYxDUewlz6x6wkkOW6LpCWQDSPZoaze3riAU/edit?usp=sharing)| Solutions|
+| 6 | [Questions](https://docs.google.com/document/d/1N8M37zDGYxDUewlz6x6wkkOW6LpCWQDSPZoaze3riAU/edit?usp=sharing)| [Solutions](https://docs.google.com/document/d/1lNyC6bPv_OUXIEICCV1DafIknrlf44wYGpXdtcy8yZ0/edit?usp=sharing)|
 
 
 ## Midterm Exam
