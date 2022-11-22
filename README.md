@@ -32,9 +32,9 @@ By clicking the links provided in the table below, you can review the slides tha
 | 21 | [Instruction Level Parallelism](https://docs.google.com/presentation/d/1_wUo1p_PcXoqOEvuq47ovAZAedZPzVBvK386gv4e3OE/edit?usp=sharing)| 4.11 |
 | 22 | [Super Scalar and Dynamic](https://docs.google.com/presentation/d/1SWCCs9koAJ8OGZs3RF8W2IvVr7qMZ6tiz5ChQF37QXQ/edit?usp=sharing) | N/A |
 | 23 | Chapter 4 Problem Solving Session | N/A |
-| 24 | Memory Hierarchy and Cache | 5.1 -- 5.3 |
-| 25 | Cache Performance | 5.4, 5.5 |
-| 26 | Virtual Memory | 5.6, 5.7 |
+| 24 | [Memory Hierarchy and Cache Basics](https://docs.google.com/presentation/d/1p1_WdlE7by8utjcC6L5ZxpH8D8OMzQZXaJLReZQ73Yo/edit?usp=sharing) | 5.1 -- 5.3 |
+| 25 | [Cache Mechanics and Mapping (Part 1)](https://docs.google.com/presentation/d/14M-VGeuuT7EO8vRdD1ptQNFojy665Ik1CS5SsI7P0Fg/edit?usp=sharing) | 5.4, 5.5 |
+| 26 | [Cache Mapping Methods (Part 2)](https://docs.google.com/presentation/d/1Y-Y_04R9ZqzvzL5SmdVUgVMOEmp2sQT1lfz7F0On5zM/edit?usp=sharing) | 5.6, 5.7 |
 | 27 | Parallel Processors & Multithreading| 6.1 -- 6.3 |
 | 28 | GPUs, Domain specific architectures, clusters | 6.4 -- 6.8 |
 
