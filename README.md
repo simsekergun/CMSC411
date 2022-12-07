@@ -32,11 +32,11 @@ By clicking the links provided in the table below, you can review the slides tha
 | 21 | [Instruction Level Parallelism](https://docs.google.com/presentation/d/1_wUo1p_PcXoqOEvuq47ovAZAedZPzVBvK386gv4e3OE/edit?usp=sharing)| 4.11 |
 | 22 | [Super Scalar and Dynamic](https://docs.google.com/presentation/d/1SWCCs9koAJ8OGZs3RF8W2IvVr7qMZ6tiz5ChQF37QXQ/edit?usp=sharing) | N/A |
 | 23 | Chapter 4 Problem Solving Session | N/A |
-| 24 | [Memory Hierarchy and Cache Basics](https://docs.google.com/presentation/d/1p1_WdlE7by8utjcC6L5ZxpH8D8OMzQZXaJLReZQ73Yo/edit?usp=sharing) | 5.1 -- 5.3 |
-| 25 | [Cache Mechanics and Mapping (Part 1)](https://docs.google.com/presentation/d/14M-VGeuuT7EO8vRdD1ptQNFojy665Ik1CS5SsI7P0Fg/edit?usp=sharing) | 5.4, 5.5 |
-| 26 | [Cache Mapping Methods (Part 2)](https://docs.google.com/presentation/d/1Y-Y_04R9ZqzvzL5SmdVUgVMOEmp2sQT1lfz7F0On5zM/edit?usp=sharing) | 5.6, 5.7 |
-| 27 | Parallel Processors & Multithreading| 6.1 -- 6.3 |
-| 28 | GPUs, Domain specific architectures, clusters | 6.4 -- 6.8 |
+| 24 | [Memory Hierarchy and Cache Basics](https://docs.google.com/presentation/d/1p1_WdlE7by8utjcC6L5ZxpH8D8OMzQZXaJLReZQ73Yo/edit?usp=sharing) | 5.1 -- 5.2 |
+| 25 | [Cache Mechanics](https://docs.google.com/presentation/d/14M-VGeuuT7EO8vRdD1ptQNFojy665Ik1CS5SsI7P0Fg/edit?usp=sharing) | 5.3, 5.4 |
+| 26 | [Cache Mapping Methods](https://docs.google.com/presentation/d/1Y-Y_04R9ZqzvzL5SmdVUgVMOEmp2sQT1lfz7F0On5zM/edit?usp=sharing) | 5.4, 5.5 |
+| 27 | [Virtual Machines](https://docs.google.com/presentation/d/1zWCWv0Jt869Vh6xQJlpJcQXkRrKe7MnQhEbswZFIBDc/edit?usp=sharing)| 5.6|
+| 28 | Chapter 5 Problem Solving Session | NA|
 
 
 
@@ -60,6 +60,7 @@ Solution manuals: [Group-1](https://docs.google.com/document/d/1bfk3anRR1_ST6lfW
 - Quiz 2 [Solution Manual](https://docs.google.com/document/d/1cy0nD_fodi6I1yoM0hS5feo1ho4V1sNmNhQtgrULUs4/edit?usp=sharing)
 - Quiz 3 [Solution Manual](https://docs.google.com/document/d/10kK9rgMAalTuHi-BcLWqKTfbvaGUrHor0_WK0w1Zbt4/edit?usp=sharing)
 - Quiz 4 [Solution Manual](https://docs.google.com/document/d/1EnIvmLJxqAM1zzHl3ZH1DX-6sAjpN_5sv88yVGsmnyc/edit?usp=sharing)
+- Quiz 5
 
 ## Useful Stuff
 [MIPS Instruction Set in a Nutshell](https://docs.google.com/document/d/1kx75d1Kn1rjCsR-ZLefd9y2kIteslbTL7p1LtCmpRsY/edit?usp=sharing)
