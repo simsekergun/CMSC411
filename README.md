@@ -36,7 +36,7 @@ By clicking the links provided in the table below, you can review the slides tha
 | 25 | [Cache Mechanics](https://docs.google.com/presentation/d/14M-VGeuuT7EO8vRdD1ptQNFojy665Ik1CS5SsI7P0Fg/edit?usp=sharing) | 5.3, 5.4 |
 | 26 | [Cache Mapping Methods](https://docs.google.com/presentation/d/1Y-Y_04R9ZqzvzL5SmdVUgVMOEmp2sQT1lfz7F0On5zM/edit?usp=sharing) | 5.4, 5.5 |
 | 27 | [Virtual Machines](https://docs.google.com/presentation/d/1zWCWv0Jt869Vh6xQJlpJcQXkRrKe7MnQhEbswZFIBDc/edit?usp=sharing)| 5.6|
-| 28 | Chapter 5 Problem Solving Session | NA|
+| 28 | [Chapter 5 Problem Solving Session](https://docs.google.com/document/d/1ych_qTqQoYfbHK_tiCfO5bO7feePDACIdmXr_55ll-c/edit?usp=sharing) | NA|
 
 
 
